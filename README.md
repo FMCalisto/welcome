@@ -1,6 +1,6 @@
 # Welcome
 
-<meta http-equiv="refresh" content="0; URL='http://fmcalisto.github.io/welcome/src/index.html'" />
+<meta http-equiv="refresh" content="0; url='http://fmcalisto.github.io/welcome/src/index.html'" />
 
 <a href="http://fmcalisto.github.io/welcome" title="Welcome" target="_blank">
   <img src="assets/banner001.png" />
