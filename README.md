@@ -10,17 +10,37 @@ Displays a nice welcome page for people who want to know more about some online 
 
 ## Instructions
 
-This repository contains the source material for a **welcoming** page. The general template can be found on the [`src/`](src/) directory. Starting with the [`index.html`](src/index.html) file, it is here where we call both [`css/`](src/css/) and [`js`](src/js/) sources. The [`css/`](src/css/) source is a style sheet file to programmatically configure the set of transitions and annimations of the **welcoming** page. On the other hand, the [`js`](src/js/) is where are the [JavaScript](https://www.w3schools.com/js/) files, and therefore the scripting instructions.
+This repository contains the source material for a **welcoming** page. The general template can be found on the [`src/`](src/) directory. Starting with the [`index.html`](src/index.html) file, it is here where we call both [`css/`](src/css/) and [`js/`](src/js/) sources. The [`css/`](src/css/) source is a style sheet file to programmatically configure the set of transitions and annimations of the **welcoming** page. On the other hand, the [`js/`](src/js/) is where are the [JavaScript](https://www.w3schools.com/js/) files, and therefore the scripting instructions.
 
 ### Clone
 
+To clone the hereby repository follow the guidelines. It is easy as that.
+
+1.1. Please clone the repository by typing the command:
+
+```
+git clone https://github.com/FMCalisto/welcome.git
+```
+
+1.2. Get inside of the repository directory:
+
+```
+cd welcome/
+```
+
 ## About
 
-In this section, it aims to give **About** information regarding the hereby repository. It is here, where is explained both **Authorship**, **Acknowledgements** and **License**. The information is as follows.
-
-### Author
+In this section, it aims to give **About** information regarding the hereby repository. It is here, where is explained both **Acknowledgements**, **Authorship** and **License**. The information is as follows.
 
 ### Acknowledgements
+
+I would like to convey [Moncho Varela](https://codepen.io/nakome/) from his [Welcome](https://codepen.io/nakome/pen/AELuF) source. This repository source code is based on [Welcome](https://codepen.io/nakome/pen/AELuF) repository available at the [codepen.io](https://codepen.io) platform.
+
+### Authors
+
+The authorship of this repository:
+
+- [Francisco Maria Calisto](http://www.franciscocalisto.me/) [[ResearchGate](https://www.researchgate.net/profile/Francisco_Maria_Calisto) | [GitHub](https://github.com/FMCalisto) | [Twitter](https://twitter.com/FMCalisto) | [LinkedIn](https://www.linkedin.com/in/fmcalisto/)]
 
 ### License
 
