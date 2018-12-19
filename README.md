@@ -30,7 +30,7 @@ cd welcome/
 
 ## About
 
-In this section, it aims to give **About** information regarding the hereby repository. It is here, where is explained both **Acknowledgements**, **Authorship** and **License**. The information is as follows.
+In this section, it aims to give **[About](https://github.com/FMCalisto/welcome#about)** information regarding the hereby repository. It is here, where is explained both **[Acknowledgements](https://github.com/FMCalisto/welcome#acknowledgements)**, **[Authorship](https://github.com/FMCalisto/welcome#authors)** and **[License](https://github.com/FMCalisto/welcome#license)**. The information is as follows.
 
 ### Acknowledgements
 
